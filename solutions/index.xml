@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solutions on EveryCheck</title>
+    <link>https://www.everycheck.com/solutions/</link>
+    <description>Recent content in Solutions on EveryCheck</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://www.everycheck.com/solutions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agence de Com/RH</title>
+      <link>https://www.everycheck.com/solutions/agence-com-rh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.everycheck.com/solutions/agence-com-rh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contrôle de sécurité avancé</title>
+      <link>https://www.everycheck.com/solutions/controle-de-securite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.everycheck.com/solutions/controle-de-securite/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prise de référence automatisée</title>
+      <link>https://www.everycheck.com/solutions/prise-de-reference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.everycheck.com/solutions/prise-de-reference/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vérification de diplômes</title>
+      <link>https://www.everycheck.com/solutions/verifier-un-diplome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.everycheck.com/solutions/verifier-un-diplome/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vérification des emplois précédents du candidat</title>
+      <link>https://www.everycheck.com/solutions/verifier-un-cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.everycheck.com/solutions/verifier-un-cv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vérification sur mesure</title>
+      <link>https://www.everycheck.com/solutions/sur-mesure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.everycheck.com/solutions/sur-mesure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vérifiez votre futur locataire</title>
+      <link>https://www.everycheck.com/solutions/dossiers-locataires/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.everycheck.com/solutions/dossiers-locataires/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
