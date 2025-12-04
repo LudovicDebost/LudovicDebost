@@ -404,6 +404,23 @@
                 href="https://www.everycheck.com/es/interconnectable/"
                 />
   </url><url>
+    <loc>https://www.everycheck.com/es/cookies-policy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.everycheck.com/gestion-des-cookies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.everycheck.com/en/cookies-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.everycheck.com/es/cookies-policy/"
+                />
+  </url><url>
     <loc>https://www.everycheck.com/es/contact/contact/</loc>
     <xhtml:link
                 rel="alternate"

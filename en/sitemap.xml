@@ -353,6 +353,23 @@
                 href="https://www.everycheck.com/en/contact/contact/"
                 />
   </url><url>
+    <loc>https://www.everycheck.com/en/cookies-policy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.everycheck.com/gestion-des-cookies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.everycheck.com/es/cookies-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.everycheck.com/en/cookies-policy/"
+                />
+  </url><url>
     <loc>https://www.everycheck.com/en/a-propos/rse/</loc>
     <xhtml:link
                 rel="alternate"

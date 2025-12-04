@@ -1335,6 +1335,21 @@
     <loc>https://www.everycheck.com/lausanne/</loc>
   </url><url>
     <loc>https://www.everycheck.com/gestion-des-cookies/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.everycheck.com/en/cookies-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.everycheck.com/es/cookies-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.everycheck.com/gestion-des-cookies/"
+                />
   </url><url>
     <loc>https://www.everycheck.com/pourquoi-everycheck/</loc>
     <xhtml:link
