@@ -188,23 +188,6 @@
                 href="https://www.everycheck.com/en/solutions/prise-de-reference/"
                 />
   </url><url>
-    <loc>https://www.everycheck.com/en/solutions/sur-mesure/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.everycheck.com/solutions/sur-mesure/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.everycheck.com/es/solutions/sur-mesure/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.everycheck.com/en/solutions/sur-mesure/"
-                />
-  </url><url>
     <loc>https://www.everycheck.com/en/solutions/vendor/</loc>
     <xhtml:link
                 rel="alternate"
