@@ -61,7 +61,7 @@
 	
 		
 	
-	<link rel="stylesheet" href="/assets/css/style.min.1e675441978489db22a0851c64fc80658822d742b8902091a9c815b18c1c0ee8.css">
+	<link rel="stylesheet" href="/assets/css/style.min.a0e6f2c1917014c6dd444357971677b27c1c3f3fcb27b7ba18c5b3c31a06669f.css">
 </head>
 <body>
 		
@@ -11066,8 +11066,10 @@ C&rsquo;est ce qu&rsquo;a pu faire William Minh Hào Nguyen pour <a href="https
             <div class="row gx-4">
                 <div class="col-md-6">
 	<div class="form-select-wrapper mb-4">
-		<select class="form-select" id="form-select" name="position" >
-			<option selected disabled value="">Quel est l&#39;objet de votre demande ?</option>
+	  <label for="form_position" class="fw-bold">Quel est l&#39;objet de votre demande ?</label>
+			
+		<select class="form-select rounded-pill border-2 border-soft-aqua" id="form_position" name="position" >
+			<option selected disabled value="">Quel est l&#39;objet de votre demande ?</option> 
 			
 			<option value="Vérifier un candidat">Vérifier un candidat</option>
 			
@@ -11081,19 +11083,19 @@ C&rsquo;est ce qu&rsquo;a pu faire William Minh Hào Nguyen pour <a href="https
 	</div>
 </div>
 <div class="col-md-6">
-	<div class="form-floating mb-4">
-		<input id="form_name" type="text" name="SingleLine" class="form-control" placeholder="Votre société" required>
-		<label for="form_name">Votre société *</label>
+	<div class="mb-4">
+		<label for="form_SingleLine" class="fw-bold mb-1">Votre société *</label>
+		<input id="form_SingleLine" type="text" name="SingleLine" class="form-control rounded-pill border-2 border-soft-aqua" placeholder="Votre société" required>
 	</div>
 </div>
 <div class="col-12">
-	<div class="form-floating mb-4">
-		<textarea id="form_message" name="MultiLine" class="form-control" placeholder="Votre message" style="height: 150px" required></textarea>
-		<label for="form_message">Votre message  *</label>
+	<div class="mb-4">
+		<label for="form_MultiLine" class="fw-bold">Votre message  *</label>
+		<textarea id="form_MultiLine" name="MultiLine" class="form-control rounded-4 border-2 border-soft-aqua" placeholder="Votre message" style="height: 150px" required></textarea>
 	</div>
 </div>
 <div class="col-12 text-center">
-	<button type="submit" class="btn btn-primary rounded-pill btn-send mb-3" name="action" value="save">
+	<button type="submit" class="btn btn-soft-aqua rounded-pill btn-send mb-3" name="action" value="save">
 		Envoyer un message
 	</button>
 </div>

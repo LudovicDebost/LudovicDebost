@@ -1224,23 +1224,6 @@
                 href="https://www.everycheck.com/se-connecter/"
                 />
   </url><url>
-    <loc>https://www.everycheck.com/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.everycheck.com/en/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.everycheck.com/es/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.everycheck.com/contact/"
-                />
-  </url><url>
     <loc>https://www.everycheck.com/solutions/controle-de-securite/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1273,6 +1256,23 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.everycheck.com/pourquoi-everycheck/faux-diplomes/"
+                />
+  </url><url>
+    <loc>https://www.everycheck.com/contact/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.everycheck.com/es/contact/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.everycheck.com/en/contact/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.everycheck.com/contact/contact/"
                 />
   </url><url>
     <loc>https://www.everycheck.com/pourquoi-everycheck/made-in-france/</loc>
@@ -1314,23 +1314,6 @@
     <loc>https://www.everycheck.com/merci/</loc>
   </url><url>
     <loc>https://www.everycheck.com/contact-2/</loc>
-  </url><url>
-    <loc>https://www.everycheck.com/contact/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.everycheck.com/en/contact/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.everycheck.com/es/contact/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.everycheck.com/contact/contact/"
-                />
   </url><url>
     <loc>https://www.everycheck.com/lausanne/</loc>
   </url><url>
@@ -1474,6 +1457,23 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.everycheck.com/a-propos/rse/"
+                />
+  </url><url>
+    <loc>https://www.everycheck.com/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.everycheck.com/es/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.everycheck.com/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.everycheck.com/contact/"
                 />
   </url><url>
     <loc>https://www.everycheck.com/solutions/</loc>

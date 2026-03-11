@@ -302,40 +302,6 @@
                 href="https://www.everycheck.com/en/connect/"
                 />
   </url><url>
-    <loc>https://www.everycheck.com/en/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.everycheck.com/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.everycheck.com/es/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.everycheck.com/en/contact/"
-                />
-  </url><url>
-    <loc>https://www.everycheck.com/en/contact/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.everycheck.com/contact/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.everycheck.com/es/contact/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.everycheck.com/en/contact/contact/"
-                />
-  </url><url>
     <loc>https://www.everycheck.com/en/cookies-policy/</loc>
     <xhtml:link
                 rel="alternate"
@@ -518,6 +484,23 @@
                 href="https://www.everycheck.com/en/rhtags/"
                 />
   </url><url>
+    <loc>https://www.everycheck.com/en/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.everycheck.com/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.everycheck.com/es/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.everycheck.com/en/contact/"
+                />
+  </url><url>
     <loc>https://www.everycheck.com/en/solutions/</loc>
     <xhtml:link
                 rel="alternate"
@@ -533,6 +516,23 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.everycheck.com/en/solutions/"
+                />
+  </url><url>
+    <loc>https://www.everycheck.com/en/contact/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.everycheck.com/contact/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.everycheck.com/es/contact/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.everycheck.com/en/contact/contact/"
                 />
   </url><url>
     <loc>https://www.everycheck.com/en/pourquoi-everycheck/trois-options-pour-securiser-vos-embauches/</loc>
